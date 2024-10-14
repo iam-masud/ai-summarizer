@@ -56,11 +56,6 @@ VITE_RAPIDAPI_ARTICLE_KEY=XXXXXXXXXXXXXXXXXXXXXXX
 
 You might encounter some bugs while using this app. You are more than welcome to contribute. Just submit changes via pull request and I will review them before merging. Make sure you follow community guidelines.
 
-## Buy Me a Coffee 🍺
-
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
-
-
 ## :star: Give A Star
 
 You can also give this repository a star to show more people and they can use this repository.
